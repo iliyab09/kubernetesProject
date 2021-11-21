@@ -9,6 +9,13 @@ Node.js Weight Tracker
 #### In this project I used Azure Devops to Integrate and Deploy (CI/CD) the application on to Azure Kubernetes Service using Kubernetes
 <img width="640" alt="k8s-cicd" src="https://user-images.githubusercontent.com/16802411/142779559-570bb175-0438-4f14-9100-423ef859348f.png">
 
-### in this project i use my previous project like Docker and Terraform 
+
+
+
+
+
+
+
+### In this project I use my previous project like Docker and Terraform 
 Docker: https://github.com/iliyab09/WEEK9DOCKERAPP</br>
 Terraform for kubernetes cluster: https://github.com/iliyab09/TerraformForAzureKubernetesClusterWithPostgres
