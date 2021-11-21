@@ -11,4 +11,4 @@ Node.js Weight Tracker
 
 ### in this project i use my previous project like Docker and Terraform 
 Docker: https://github.com/iliyab09/WEEK9DOCKERAPP</br>
-Terraform for kubernetes: https://github.com/iliyab09/TerraformForAzureKubernetesClusterWithPostgres
+Terraform for kubernetes cluster: https://github.com/iliyab09/TerraformForAzureKubernetesClusterWithPostgres
