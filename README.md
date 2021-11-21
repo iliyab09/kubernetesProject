@@ -10,4 +10,5 @@ Node.js Weight Tracker
 <img width="640" alt="k8s-cicd" src="https://user-images.githubusercontent.com/16802411/142779559-570bb175-0438-4f14-9100-423ef859348f.png">
 
 ### in this project i use my previous project like Docker and Terraform 
-Docker: https://github.com/iliyab09/WEEK9DOCKERAPP
+Docker: https://github.com/iliyab09/WEEK9DOCKERAPP</br>
+        https://github.com/iliyab09/TerraformForAzureKubernetesClusterWithPostgres
