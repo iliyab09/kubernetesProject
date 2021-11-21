@@ -1,0 +1,28 @@
+kind: ConfigMap
+apiVersion: v1
+metadata:
+  name: dotenvconfigmap
+  namespace: default
+data:
+  # Host configuration
+  port: "80"
+  host: "0.0.0.0"
+  host_url: "http://20.73.221.28"
+  cookie_encrypt_pdw: "superAwesomePasswordStringThatIsAtLeast32CharactersLong!"
+  node_env: "development"
+  # PostgreSQL server configuration
+  pghost: "ps-db-stage.postgres.database.azure.com"
+  #pguser: "iliyab09@ps-db-stage"  ###  aWxpeWFiMDlAcHMtZGItc3RhZ2U=
+  pgdatabase: "postgres"
+  #pgpassword: "H@Sh1CoR3!" #base 64 SEBTaDFDb1IzIQ==
+  pgport: "5432"
+# Okta configuration
+  okta_org_url: "https://dev-18539789.okta.com/"
+  #octa_client_id: "0oa20b2ukvIVGq2cV5d7"  #base64 MG9hMjBiMnVrdklWR3EyY1Y1ZDc=
+  okta_client_secret: "ddaUMxloY0WpQ_waEgAMJ64ZEK_Q6p44lhnMgOOv"
+
+#   PGHOST=localhost
+# PGUSERNAME=postgres
+# PGDATABASE=postgres
+# PGPASSWORD=p@ssw0rd42
+# PGPORT=5432
