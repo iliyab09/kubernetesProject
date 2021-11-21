@@ -12,6 +12,9 @@ Node.js Weight Tracker
 
 
 
+# Project structure
+![kubernetes-resources](https://user-images.githubusercontent.com/16802411/142781039-b7ddb0fb-4a29-4df4-9c1b-b0126b198708.png)</br></br></br>
+![CICD](https://user-images.githubusercontent.com/16802411/142781009-f9543032-7d40-44f8-9f55-b40dde37e708.png)
 
 
 
